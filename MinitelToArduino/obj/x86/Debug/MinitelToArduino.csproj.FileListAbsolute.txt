@@ -1,0 +1,8 @@
+/Users/sfardoux/SkyDrive/PROJETS/MinitelToArduino/MinitelToArduino/bin/Debug/MinitelToArduino.exe
+/Users/sfardoux/SkyDrive/PROJETS/MinitelToArduino/MinitelToArduino/bin/Debug/MinitelToArduino.pdb
+/Users/sfardoux/SkyDrive/PROJETS/MinitelToArduino/MinitelToArduino/obj/x86/Debug/MinitelToArduino.csproj.CoreCompileInputs.cache
+/Users/sfardoux/SkyDrive/PROJETS/MinitelToArduino/MinitelToArduino/obj/x86/Debug/MinitelToArduino.exe
+/Users/sfardoux/SkyDrive/PROJETS/MinitelToArduino/MinitelToArduino/obj/x86/Debug/MinitelToArduino.pdb
+/Users/sfardoux/SkyDrive/PROJETS/MinitelToArduino/MinitelToArduino/bin/Debug/Newtonsoft.Json.dll
+/Users/sfardoux/SkyDrive/PROJETS/MinitelToArduino/MinitelToArduino/bin/Debug/Newtonsoft.Json.xml
+/Users/sfardoux/SkyDrive/PROJETS/MinitelToArduino/MinitelToArduino/obj/x86/Debug/MinitelToArduino.csprojResolveAssemblyReference.cache
