@@ -1,6 +1,10 @@
 ﻿<Properties StartupConfiguration="{31EC526A-3E19-4B3A-97A4-2D4CCC36020D}|Default">
   <MonoDevelop.Ide.ItemProperties.MinitelToArduino PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinitelToArduino/Program.cs">
+    <Files>
+      <File FileName="MinitelToArduino/Program.cs" Line="73" Column="169" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

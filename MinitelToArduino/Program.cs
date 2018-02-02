@@ -70,7 +70,7 @@ namespace MinitelToArduino
                         hex.AppendFormat(", 0x{0:x2}", b);
                     }
                 }
-                string result = "#define " + name.ToUpper() + "_SIZE " + bytes.Length.ToString() + "\r\nconst PROGMEM uint8_t " + name + "[] = {" + hex.ToString() + "}";
+                string result = "#define " + name.ToUpper() + "_SIZE " + bytes.Length.ToString() + "\r\nconst PROGMEM uint8_t " + name + "[] = {" + hex.ToString() + "};";
                 x.Write(result);
                 x.Close();
                 Console.WriteLine(" DONE");
